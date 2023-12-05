@@ -1,2 +1,2 @@
 # docker-builder-php
-Generate the Dokerfile using the dependencies given by composer
+Generate the Dockerfile using the dependencies given by composer
